@@ -1,0 +1,11 @@
+Test -- Constant stability (N=0.018) and background wind (zero)
+
+initial waves :
+- every 5 deg from 65S to 75S
+- launching height = 0km
+- zonal wavelength = 314km
+- relative freq. is 8.0e-4 
+ ( m is diagnosed at the source level )
+ ==> cgx is large positive value
+
+Test for icur=1 and 0, and see how curvature terms work !! 

@@ -1,0 +1,3 @@
+PSPMOD=/work1/amemiya/Lib/pspline/mod
+PSPLIB=/work1/amemiya/Lib/pspline/lib
+dclfrt -I$PSPMOD setup.f90 getBG_fast.f90 main.f90 ql.f90 io.f90 rayt.f90 -o exe -L$PSPLIB -lpspline -lezcdf -traceback -CB

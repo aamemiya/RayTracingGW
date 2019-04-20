@@ -1,0 +1,11 @@
+Background U & T -- SPARC climatology for July (80S-80N)
+
+initial waves :
+- every 5 deg from 40S to 75S
+- ***** launching height = 40km *****
+- zonal wavelength = 314km
+- relative freq. is zero = orographic waves assumed
+ ( m is diagnosed at the source level )
+
+dt=-200  -- backward integration
+iupwd=1 means Cpz > 0 -- backward (downward) tracing is performed

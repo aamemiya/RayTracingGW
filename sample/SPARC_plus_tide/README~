@@ -1,0 +1,11 @@
+Background U & T -- SPARC climatology for July (80S-80N)
+
+initial waves :
+- every 5 deg from 40S to 75S
+- launching height = 10km
+- zonal wavelength = 314km
+- relative freq. is zero = orographic waves assumed
+ ( m is diagnosed at the source level )
+
+
+Check meridional refraction and its dependency on wavenumber and frequency

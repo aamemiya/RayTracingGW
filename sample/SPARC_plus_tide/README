@@ -1,0 +1,21 @@
+Background U & T -- SPARC climatology for July (80S-80N)
+
+Steady U(y,z) + Time dependent u'(x,z,t)
+
+u' = A(z) * sin(2*pi*(kx+wt)) is loaded from SPARC/plus_tide/wind_tide.ascii
+
+diurnal migrating tide (WN 1 and 1 cycle/day) with maximum u'=20m/s is prescribed in the default data.
+
+initial waves :
+- every 5 deg from 40S to 75S
+- launching height = 10km
+- zonal wavelength = 314km
+- relative freq. is zero = orographic waves assumed
+ ( m is diagnosed at the source level )
+
+
+Check how relative frequency changes during propagation. 
+
+
+Reference: Eckermann and Marks, 1996
+http://onlinelibrary.wiley.com/doi/10.1029/96JD01660/pdf
